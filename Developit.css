@@ -1,0 +1,30 @@
+/*
+* Hannah Solge 
+* Due Date
+* Project Name and Description
+*/
+
+/* The university selector */
+
+* {
+    margin:0px
+    padding:0px
+}
+
+/* Body attributes here */
+
+header {
+    background:#ff6666
+}
+main{
+    
+}
+#Laptops{
+    float:right;
+}
+#Computer{
+    float:right;
+}
+footer{
+    
+}
